@@ -1,6 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
-
-
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Amit|👨‍💻 a Full Stack developer." title="👋 Hi there! I'm Amit|👨‍💻 a Full Stack developer."/>](https://amit-dev-webpage.web.app/)
 
 
 # 👋 Hi ! I'm Amit!
