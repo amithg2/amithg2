@@ -33,8 +33,6 @@
 <img align="left" alt="Postman" width="26" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="Firbase" width="26" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 
-<br />
-<br />
 
 [<img src="https://i.ibb.co/yNM9WW9/universe-middle.jpg" alt="Amit-Dev" />]([website])
 
