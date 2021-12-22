@@ -42,17 +42,25 @@
 
 The project allows you to to see campgrounds around you, add campgrounds, review them, edit them, see them on the map and more 👉
 <br />
-<a href="https://github.com/amithg2/yelp-camp" target="blank"><img align="right" src="https://amit-dev-webpage.web.app/static/media/yelpCamp.34f636f619ef64b78cb5.png" alt="yelp-camp" width="160" height="100" /></a>
+<a href="https://github.com/amithg2/yelp-camp" target="blank">Github Code</a>
+<a href="https://yelp-camp-web-amit.herokuapp.com/" target="blank"><img align="right" src="https://amit-dev-webpage.web.app/static/media/yelpCamp.34f636f619ef64b78cb5.png" alt="yelp-camp" width="160" height="100" /></a>
 
 <br />
 <br />
-
 
 ### React-color-picker
-
+<br />
 The project allows you to choose colors from palettes and copy them in different formats and different lightness/darkness. you can also create a custom palette, and organize it by dragging and dropping and more 👉
+<a href="https://github.com/amithg2/react-color-picker" target="blank">Github Code</a>
+ <a href="https://react-color-picker-project.web.app/" target="blank"><img align="right" src="https://amit-dev-webpage.web.app/static/media/colorApp.d935f29a399d4e808c1d.png" alt="react-color-picker" width="160" height="100" /></a>
 
- <a href="https://github.com/amithg2/react-color-picker" target="blank"><img align="right" src="https://amit-dev-webpage.web.app/static/media/colorApp.d935f29a399d4e808c1d.png" alt="react-color-picker" width="160" height="100" /></a>
+### Meat-Home
+The project has a landing page for a small business and admin page with reservations control and more 👉
+<br />
+<a href="https://github.com/amithg2/meat-home-front" target="blank">Github Code (Front-End)</a>
+<a href="https://github.com/amithg2/meat-home-back-end" target="blank">Github Code (Back-End)</a>
+
+ <a href="https://meat-home-front.web.app/" target="blank"><img align="right" src="https://amit-dev-webpage.web.app/static/media/meatHome.f85cf033964504dcecba.png" alt="react-color-picker" width="160" height="100" /></a>
 
 <br />
 <br />
