@@ -16,7 +16,7 @@
 
 👉 MySQL
 
-[<img src="https://i.ibb.co/Gp8pMM5/universe-middle.jpg" alt="Amit-Dev" />](https://amit-dev-webpage.web.app/)
+[<img src="https://i.ibb.co/yNM9WW9/universe-middle.jpg" alt="Amit-Dev" />](https://amit-dev-webpage.web.app/)
 
 
 #
