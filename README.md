@@ -68,7 +68,7 @@ The project has a landing page for a small business and admin page with reservat
 <br />
 <a href="https://github.com/amithg2/meat-home-back-end" target="blank">Github Code (Back-End)</a>
 <br />
- <a href="https://meat-home-front.web.app/" target="blank"><img align="right" src="https://amit-dev-webpage.web.app/static/media/meatHome.f85cf033964504dcecba.png" alt="react-color-picker" width="200" height="120" /></a>
+ <a href="https://meat-home-front.web.app/" target="blank"><img align="right" src="https://amit-dev-webpage.web.app/static/media/meatHome.f85cf033964504dcecba.png" alt="react-color-picker" width="200" height="100" /></a>
 
 <br />
 <br />
