@@ -40,7 +40,7 @@
 
 ### Yelp-camp
 
-The project allows you to to see campgrounds around you, add campgrounds, review them, edit them, see them on the map and more.
+The project allows you to to see campgrounds around you, add campgrounds, review them, edit them, see them on the map and more 👉
 <a href="https://github.com/amithg2/yelp-camp" target="blank"><img align="right" src="https://amit-dev-webpage.web.app/static/media/yelpCamp.34f636f619ef64b78cb5.png" alt="yelp-camp" width="100" height="80" /></a>
 
 <br />
@@ -49,7 +49,7 @@ The project allows you to to see campgrounds around you, add campgrounds, review
 
 ### React-color-picker
 
-The project allows you to choose colors from palettes and copy them in different formats and different lightness/darkness. you can also create a custom palette, and organize it by dragging and dropping.
+The project allows you to choose colors from palettes and copy them in different formats and different lightness/darkness. you can also create a custom palette, and organize it by dragging and dropping and more 👉
 
  <a href="https://github.com/amithg2/react-color-picker" target="blank"><img align="right" src="https://amit-dev-webpage.web.app/static/media/colorApp.d935f29a399d4e808c1d.png" alt="react-color-picker" width="100" height="80" /></a>
 
