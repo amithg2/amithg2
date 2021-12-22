@@ -1,7 +1,16 @@
 ![header](https://i.ibb.co/PghPqMm/universe-top.jpg)
+
 # 👋 Hi ! I'm Amit!
 
-###  👨‍💻Full Stack developer. 
+### 👨‍💻Full Stack developer.
+
+## 📖 About me
+
+- 💻 I'm a full-stack developer
+- 🌐 I make apps for Web browsers
+- 🎓 I'm self-educated
+- 🌌 Small passion to the big universe
+- :octocat: All of my projects are available at <a href="https://github.com/amithg2?tab=repositories" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="https://github.com/BarOvda" height="30" width="40" /></a>
 
 <br />
 
@@ -27,7 +36,7 @@
 <br />
 <br />
 
-[<img src="https://i.ibb.co/yNM9WW9/universe-middle.jpg" alt="Amit-Dev" />](https://amit-dev-webpage.web.app/)
+[<img src="https://i.ibb.co/yNM9WW9/universe-middle.jpg" alt="Amit-Dev" />]([website])
 
 ### Connect with me:
 
@@ -39,8 +48,7 @@
 <br />
 <br />
 
-[<img src="https://i.ibb.co/xMWSTS0/universe-bottom.jpg" alt="Amit-Dev" />](https://amit-dev-webpage.web.app/)
-
+[<img src="https://i.ibb.co/xMWSTS0/universe-bottom.jpg" alt="Amit-Dev" />]([website])
 
 [website]: https://amit-dev-webpage.web.app
 [instagram]: https://www.instagram.com/amit_hg2
