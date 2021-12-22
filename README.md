@@ -29,9 +29,6 @@
 
 [<img src="https://i.ibb.co/yNM9WW9/universe-middle.jpg" alt="Amit-Dev" />](https://amit-dev-webpage.web.app/)
 
-<br />
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="amit-web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
