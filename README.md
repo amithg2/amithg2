@@ -1,4 +1,4 @@
-[<img src="https://i.ibb.co/GtKm8Wy/universe-top.png" alt="Amit-Dev" />](https://amit-dev-webpage.web.app/)
+[<img src="https://i.ibb.co/BCvQpHK/universe-top.jpg" alt="Amit-Dev" />](https://amit-dev-webpage.web.app/)
 
 # 👋 Hi ! I'm Amit!
 
@@ -32,7 +32,7 @@
 ### You can See my website [Here](https://amit-dev-webpage.web.app/)
 
 
-[<img src="https://i.ibb.co/KG6Pb9v/universe-bottom.png" alt="Amit-Dev" />](https://amit-dev-webpage.web.app/)
+[<img src="https://i.ibb.co/Tkpv2g9/universe-bottom.jpg" alt="Amit-Dev" />](https://amit-dev-webpage.web.app/)
 
 
 
