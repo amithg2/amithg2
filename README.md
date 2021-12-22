@@ -9,7 +9,8 @@
 - 💻 I'm a full-stack developer
 - 🌐 I make apps for Web browsers
 - 🎓 I'm self-educated
-- 🌌 Small passion to the big universe
+- 🌌 Small desire to the big universe
+- 🌱 I’m currently learning everything
 - :octocat: All of my projects are available at <a href="https://github.com/amithg2?tab=repositories" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="https://github.com/BarOvda" height="30" width="40" /></a>
 
 <br />
@@ -33,8 +34,23 @@
 <img align="left" alt="Postman" width="26" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="Firbase" width="26" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 
-
 [<img src="https://i.ibb.co/yNM9WW9/universe-middle.jpg" alt="Amit-Dev" />]([website])
+
+## 📘 Check out my latest projects
+
+### Yelp-camp
+
+The project allows you to to see campgrounds around you, add campgrounds, review them, edit them, see them on the map and more.
+<a href="https://github.com/amithg2/yelp-camp" target="blank"><img align="right" src="https://amit-dev-webpage.web.app/static/media/yelpCamp.34f636f619ef64b78cb5.png" alt="yelp-camp" width="40" height="40" /></a>
+
+### React-color-picker
+
+The project allows you to choose colors from palettes and copy them in different formats and different lightness/darkness. you can also create a custom palette, and organize it by dragging and dropping.
+
+ <a href="https://github.com/amithg2/react-color-picker" target="blank"><img align="right" src="https://amit-dev-webpage.web.app/static/media/colorApp.d935f29a399d4e808c1d.png" alt="react-color-picker" width="40" height="40" /></a>
+
+<br />
+<br />
 
 ### Connect with me:
 
