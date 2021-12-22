@@ -41,6 +41,7 @@
 ### Yelp-camp
 
 The project allows you to to see campgrounds around you, add campgrounds, review them, edit them, see them on the map and more 👉
+<br />
 <a href="https://github.com/amithg2/yelp-camp" target="blank"><img align="right" src="https://amit-dev-webpage.web.app/static/media/yelpCamp.34f636f619ef64b78cb5.png" alt="yelp-camp" width="100" height="80" /></a>
 
 <br />
