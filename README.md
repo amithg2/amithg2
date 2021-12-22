@@ -1,4 +1,4 @@
-[<img src="https://i.ibb.co/K6czDC4/Amit-Dev.png" alt="Amit-Dev" title="👋 Hi there! I'm Amit|👨‍💻 a Full Stack developer."/>](https://amit-dev-webpage.web.app/)
+[<img src="https://i.ibb.co/GtKm8Wy/universe-top.png" alt="Amit-Dev" />](https://amit-dev-webpage.web.app/)
 
 # 👋 Hi ! I'm Amit!
 
@@ -30,3 +30,10 @@
 
 
 ### You can See my website [Here](https://amit-dev-webpage.web.app/)
+
+
+[<img src="https://i.ibb.co/KG6Pb9v/universe-bottom.png" alt="Amit-Dev" />](https://amit-dev-webpage.web.app/)
+
+
+
+
