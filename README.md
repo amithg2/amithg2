@@ -1,4 +1,4 @@
-[<img src="https://i.ibb.co/BCvQpHK/universe-top.jpg" alt="Amit-Dev" />](https://amit-dev-webpage.web.app/)
+[<img src="https://i.ibb.co/PghPqMm/universe-top.jpg" alt="Amit-Dev" />](https://amit-dev-webpage.web.app/)
 
 # 👋 Hi ! I'm Amit!
 
