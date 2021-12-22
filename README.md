@@ -40,7 +40,7 @@
 
 ### Yelp-camp
 
-The project allows you to to see campgrounds around you, add campgrounds, review them, edit them, see them on the map and more 👉
+The project allows you to to see campgrounds around you, add campgrounds, review them, edit them, see them on the map and more👉
 <br />
 <a href="https://github.com/amithg2/yelp-camp" target="blank">Github Code</a>
 <br />
@@ -51,7 +51,7 @@ The project allows you to to see campgrounds around you, add campgrounds, review
 
 ### React-color-picker
 
-The project allows you to choose colors from palettes and copy them in different formats and different lightness/darkness. you can also create a custom palette, and organize it by dragging and dropping and more 👉
+The project allows you to choose colors from palettes and copy them in different formats and different lightness/darkness. you can also create a custom palette, and organize it by dragging and dropping and more👉
 <br />
 <a href="https://github.com/amithg2/react-color-picker" target="blank">Github Code</a>
 <br />
@@ -62,7 +62,7 @@ The project allows you to choose colors from palettes and copy them in different
 
 ### Meat-Home
 
-The project has a landing page for a small business and admin page with reservations control and more 👉
+The project has a landing page for a small business and admin page with reservations control and more👉
 <br />
 <a href="https://github.com/amithg2/meat-home-front" target="blank">Github Code (Front-End)</a>
 <br />
