@@ -10,7 +10,7 @@
 - 🌐 I make apps for Web browsers
 - 🎓 I'm self-educated
 - 🌌 Small desire to the big universe
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning python
 - :octocat: All of my projects are available at <a href="https://github.com/amithg2?tab=repositories" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="https://github.com/BarOvda" height="30" width="40" /></a>
 
 <br />
