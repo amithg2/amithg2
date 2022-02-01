@@ -1,4 +1,4 @@
-![header](https://i.ibb.co/PghPqMm/universe-top.jpg)
+[<img src="https://i.ibb.co/PghPqMm/universe-top.jpg" alt="Amit-Dev" />]([website])
 
 # 👋 Hi ! I'm Amit!
 
